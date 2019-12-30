@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -107,9 +107,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577433911842" />
-    <state x="154" y="0" key="SettingsEditor" timestamp="1577433735575">
+    <state x="154" y="0" key="SettingsEditor" timestamp="1577669829077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="154" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577433735575" />
+    <state x="154" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577669829077" />
   </component>
 </project>
